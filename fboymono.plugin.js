@@ -4,7 +4,7 @@
  * @author DaddyKaze
  * @authorId 1461756942941950105
  * @website https://discord.gg/KcJtS89VxD
- * @source https://raw.githubusercontent.com/zashirax/fboymono/refs/heads/main/FuckboyMono.plugin.js
+ * @source https://raw.githubusercontent.com/zashirax/fboymono/refs/heads/main/fboymono.plugin.js
  * @description gets u on mono sound
  */
 
